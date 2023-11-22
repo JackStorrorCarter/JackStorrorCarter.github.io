@@ -13,12 +13,12 @@ My main research interests are in statistical methodology and Bayesian statistic
 
 ### Published papers
 
-**Carter JS**, Rossell D, Smith JQ (2023).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics. [Open access version](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675)
+- **Carter JS**, Rossell D, Smith JQ (2023).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics. [Open access version](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675)
 
 ### Preprints
 
-**Carter JS** (2023).  Positive dependence in qualitative probabilistic networks. [arXiv preprint](https://arxiv.org/abs/2208.09344#:~:text=Qualitative%20probabilistic%20networks%20(QPNs)%20combine,of%20positive%20and%20negative%20dependence.)
+- **Carter JS** (2023).  Positive dependence in qualitative probabilistic networks. [arXiv preprint](https://arxiv.org/abs/2208.09344#:~:text=Qualitative%20probabilistic%20networks%20(QPNs)%20combine,of%20positive%20and%20negative%20dependence.)
 
 ### Thesis
 
-PhD thesis (2021). Partial correlation based penalty functions and prior distributions for Gaussian graphical models. University of Warwick. [Available online](http://wrap.warwick.ac.uk/163951/)
+- PhD thesis (2021). Partial correlation based penalty functions and prior distributions for Gaussian graphical models. University of Warwick. [Available online](http://wrap.warwick.ac.uk/163951/)
