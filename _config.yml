@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: CV, file: "CV_2023-11-16.pdf", icon: file}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Google scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=an5KmCEAAAAJ&hl=en&oi=ao"}
+  - {title: Google scholar, icon: book, url: "https://scholar.google.com/citations?user=an5KmCEAAAAJ&hl=en&oi=ao"}
   - {title: Contact me, icon: envelope, url: "mailto:jack.carter@dima.unige.it"}
 #  - {title: Check out my Github, icon: github, url: "https://github.com/lauraguzmanrincon"}
 
