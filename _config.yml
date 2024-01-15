@@ -16,11 +16,12 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", icon = house}
+  - {file: "index.md", icon: house}
   #- {file: "publications.md"}
-  #- {file: "CV.md"}
+  - {title: CV, file: "CV_2023-11-16.pdf", icon: file}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Google scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=an5KmCEAAAAJ&hl=en&oi=ao"}
   - {title: Contact me, icon: envelope, url: "mailto:jack.carter@dima.unige.it"}
 #  - {title: Check out my Github, icon: github, url: "https://github.com/lauraguzmanrincon"}
 
