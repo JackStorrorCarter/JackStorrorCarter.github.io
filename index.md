@@ -1,5 +1,5 @@
 ---
-layout: page_Laura
+layout: home_Jack
 title: "Home"
 ---
 
