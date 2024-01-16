@@ -34,8 +34,12 @@
 
 {{ content }}
 
-{% if site.external %}
+{% if site.show_sidebar or site.sidebar %}
+{% else %}
   <img src="files/Photo.png" class="img-circle" alt="LGR">
+{% endif %}
+
+{% if site.external %}
 <footer>
   <div>{{ site.description | default: site.title }}</div>
   {% include menu.html menu=site.external %}
