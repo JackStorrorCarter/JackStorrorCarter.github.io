@@ -36,10 +36,10 @@
 
 {{ content }}
 
-{% if site.external %}
 <footer>
-  {% include menu.html menu=site.external %}
+  {% if site.external %}
+    {% include menu.html menu=site.external %}
+  {% endif %}
 </footer>
-{% endif %}
 
 </html>
