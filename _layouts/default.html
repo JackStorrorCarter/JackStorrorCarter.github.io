@@ -40,7 +40,7 @@
 
 {% if site.external %}
 <footer>
-  <div>{% include menu.html menu=site.external %}</div>
+  {% include menu.html menu=site.external %}
   {{ site.description | default: site.title }}
 </footer>
 {% endif %}
