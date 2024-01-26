@@ -19,7 +19,7 @@ My main research interests are in statistical methodology and Bayesian statistic
 
 - **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2024).  Staged trees for discrete longitudinal data. [arXiv preprint](https://arxiv.org/abs/2401.04297)
 
-- **Carter JS** (2023).  Positive dependence in qualitative probabilistic networks. [arXiv preprint](https://arxiv.org/abs/2208.09344)
+- **Carter JS** (2023).  A note on incorrect inferences in non-binary qualitative probabilistic networks. [arXiv preprint](https://arxiv.org/abs/2208.09344)
 
 ### Thesis
 
