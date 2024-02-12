@@ -1,7 +1,7 @@
+<meta name="google-site-verification" content="-mt6yqNXBN7DQHxnWLdmMPiN9jFZSOQ_t9lRqigOStY" />
 ---
 layout: home_Jack
 title: "Home"
-<meta name="google-site-verification" content="-mt6yqNXBN7DQHxnWLdmMPiN9jFZSOQ_t9lRqigOStY" />
 ---
 
 # Jack Storror Carter
