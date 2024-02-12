@@ -13,7 +13,7 @@ My main research interests are in statistical methodology and Bayesian statistic
 
 ### Published papers
 
-- **Carter JS**, Rossell D, Smith JQ (2023).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics, 51(1), 32–63. [Open access version](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675)
+- **Carter JS**, Rossell D, Smith JQ (2024).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics, 51(1), 32–63. [Open access version](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675)
 
 ### Preprints
 
