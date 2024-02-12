@@ -2,7 +2,9 @@
 layout: home_Jack
 title: "Home"
 ---
+<head>
 <meta name="google-site-verification" content="-mt6yqNXBN7DQHxnWLdmMPiN9jFZSOQ_t9lRqigOStY" />
+</head>
 
 # Jack Storror Carter
 
