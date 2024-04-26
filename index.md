@@ -12,6 +12,11 @@ I am a postdotoral researcher in the Dipartimento di Matematica at the Universit
 
 My main research interests are in statistical methodology and Bayesian statistics with a focus on graphical models.  In my current position I am working on the development of methodology for staged tree models.  During my PhD under the supervision of Prof. [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) at the University of Warwick my research focussed on penalised likelihood methods and prior distributions for sparse Gaussian precision matrix estimation and Gaussian graphical model selection.  My main contribution in this time was a new penalised likelihood method - the partial correlation graphical LASSO - which provides scale invariant estimation of the precision matrix.
 
+## Software
+
+A (currently untested) R package for calculation of the partial correlation graphical LASSO is now available via github. The repository is available [here](https://github.com/JackStorrorCarter/PCGLASSO) and can be installed in R using 
+``` devtools::install.github('JackStorrorCarter/PCGLASSO') ```
+
 ## Publications
 
 ### Published papers
