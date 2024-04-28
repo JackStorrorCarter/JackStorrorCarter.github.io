@@ -16,7 +16,7 @@ My main research interests are in statistical methodology and Bayesian statistic
 
 A (currently untested) R package for calculation of the partial correlation graphical LASSO is now available via github. The repository is available [here](https://github.com/JackStorrorCarter/PCGLASSO) and can be installed in R using
 
-``` devtools::install.github('JackStorrorCarter/PCGLASSO') ```
+``` devtools::install_github('JackStorrorCarter/PCGLASSO') ```
 
 ## Publications
 
