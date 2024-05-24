@@ -10,7 +10,7 @@ title: "Home"
 
 I am a postdotoral researcher in the Dipartimento di Matematica at the Università di Genova working with Prof. [Eva Riccomagno](https://rubrica.unige.it/personale/VUZBXlJg).
 
-My main research interests are in statistical methodology and Bayesian statistics with a focus on graphical models.  In my current position I am working on the development of methodology for staged tree models.  During my PhD under the supervision of Prof. [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) at the University of Warwick my research focussed on penalised likelihood methods and prior distributions for sparse Gaussian precision matrix estimation and Gaussian graphical model selection.  My main contribution in this time was a new penalised likelihood method - the partial correlation graphical LASSO - which provides scale invariant estimation of the precision matrix.
+My main research interests are in statistical methodology and Bayesian statistics with a focus on graphical models.  In my current position I am working on the development of methodology for staged tree models.  During my PhD, under the supervision of Prof. [Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) at the University of Warwick, my research focused on penalised likelihood methods and prior distributions for sparse Gaussian precision matrix estimation and Gaussian graphical model selection.  My main contribution in this time was a new penalised likelihood method - the partial correlation graphical LASSO - which provides scale invariant estimation of a Gaussian precision matrix.
 
 ## Software
 
