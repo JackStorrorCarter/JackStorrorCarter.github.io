@@ -26,6 +26,8 @@ A (currently untested) R package for calculation of the partial correlation grap
 
 ### Preprints
 
+- **Carter JS**, Leonelli M, Riccomagno E, Varando G (2024).  Learning staged trees from incomplete data. [arXiv preprint](https://arxiv.org/abs/2405.18306)
+
 - **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2024).  Staged trees for discrete longitudinal data. [arXiv preprint](https://arxiv.org/abs/2401.04297)
 
 - **Carter JS** (2023).  A note on incorrect inferences in non-binary qualitative probabilistic networks. [arXiv preprint](https://arxiv.org/abs/2208.09344)
