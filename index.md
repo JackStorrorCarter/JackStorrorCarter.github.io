@@ -22,15 +22,15 @@ A (currently untested) R package for calculation of the partial correlation grap
 
 ### Published papers
 
-- **Carter JS**, Rossell D, Smith JQ (2024).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics, 51(1), 32–63. [Open access version](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675)
+- **Carter JS**, Rossell D, Smith JQ (2024).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics, 51(1), 32–63. [Published version (open access)](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675)
+
+- **Carter JS** (2024).  A note on incorrect inferences in non-binary qualitative probabilistic networks. Artificial Intelligence. [Published version](https://www.sciencedirect.com/science/article/pii/S0004370224001164), [Open access preprint](https://arxiv.org/abs/2208.09344)
 
 ### Preprints
 
-- **Carter JS**, Leonelli M, Riccomagno E, Varando G (2024).  Learning staged trees from incomplete data. [arXiv preprint](https://arxiv.org/abs/2405.18306)
+- **Carter JS**, Leonelli M, Riccomagno E, Varando G (2024).  Learning staged trees from incomplete data. [Open access preprint](https://arxiv.org/abs/2405.18306)
 
-- **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2024).  Staged trees for discrete longitudinal data. [arXiv preprint](https://arxiv.org/abs/2401.04297)
-
-- **Carter JS** (2023).  A note on incorrect inferences in non-binary qualitative probabilistic networks. [arXiv preprint](https://arxiv.org/abs/2208.09344)
+- **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2024).  Staged trees for discrete longitudinal data. [Open access preprint](https://arxiv.org/abs/2401.04297)
 
 ### Thesis
 
