@@ -8,7 +8,7 @@ title: "Home"
 
 # Jack Storror Carter
 
-I am a EUTOPIA post-doctoral fellow in the [Statistics group](https://sites.google.com/view/stats-upf/news) of the Department of Economics and Business at Universitat Pompeu Fabra, supervised by [Prof. David Rossell](https://sites.google.com/site/rosselldavid/).
+I am a EUTOPIA-SIF Marie Sklodowska-Curie COFUND Fellow in the [Statistics group](https://sites.google.com/view/stats-upf/news) of the Department of Economics and Business at Universitat Pompeu Fabra, supervised by [Prof. David Rossell](https://sites.google.com/site/rosselldavid/).
 
 My main research interests are in statistical methodology and Bayesian statistics with a focus on graphical models.  In my current position I am working on decoupling the concepts of dependence and dispersion in the selection of Gaussian graphical models.  I previously held post-doctoral positions in the Dipartimento di Matematica at the Università di Genova, working with [Prof. Eva Riccomagno](https://rubrica.unige.it/personale/VUZBXlJg) on the development of methodology for staged tree models, and in the Statistics department at the Univeristy of Warwick. During my PhD, under the supervision of [Prof. Jim Smith](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/smith/) at the University of Warwick, my research focused on penalised likelihood methods and prior distributions for sparse Gaussian precision matrix estimation and Gaussian graphical model selection.  My main contribution in this time was a new penalised likelihood method - the partial correlation graphical LASSO - which provides scale invariant estimation of a Gaussian precision matrix.
 
