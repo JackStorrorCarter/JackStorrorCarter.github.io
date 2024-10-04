@@ -26,7 +26,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: CV, icon: file, url: "https://jackstorrorcarter.github.io/files/CVJackStorrorCarter.pdf"}
   - {title: Google scholar, icon: scroll, url: "https://scholar.google.com/citations?user=an5KmCEAAAAJ&hl=en&oi=ao"}
-  - {title: Contact me, icon: envelope, url: "mailto:jackcarter23@aol.com"}
+  - {title: Contact me, icon: envelope, url: "mailto:jack.carter@upf.edu"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
