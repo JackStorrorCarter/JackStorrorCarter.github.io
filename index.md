@@ -18,6 +18,8 @@ A (currently untested) R package for calculation of the partial correlation grap
 
 ``` devtools::install_github('JackStorrorCarter/PCGLASSO') ```
 
+Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) python package (which I played a very minor role in developing) for selection, estimation and drawing of staged tree models.
+
 ## Publications
 
 ### Published papers
