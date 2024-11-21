@@ -14,7 +14,7 @@ I previously held post-doctoral positions in the Dipartimento di Matematica at t
 
 ## Software
 
-A (currently untested) R package for calculation of the partial correlation graphical LASSO is now available via github. The repository is available [here](https://github.com/JackStorrorCarter/PCGLASSO) and can be installed in R using
+An R package for calculation of the partial correlation graphical LASSO is now available via github. The repository is available [here](https://github.com/JackStorrorCarter/PCGLASSO) and can be installed in R using
 
 ``` devtools::install_github('JackStorrorCarter/PCGLASSO') ```
 
