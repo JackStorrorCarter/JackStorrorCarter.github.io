@@ -22,6 +22,10 @@ Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) py
 
 ## Publications
 
+### Preprints
+
+- **Carter JS**. Existence of the solution to the graphical lasso. [Open access preprint](https://arxiv.org/abs/2505.20005v1)
+
 ### Published papers
 
 - **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2025).  Staged trees for discrete longitudinal data. Metrika. [Published version](https://link.springer.com/article/10.1007/s00184-024-00987-9). [Open access preprint](https://arxiv.org/abs/2401.04297).
@@ -31,8 +35,6 @@ Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) py
 - **Carter JS**, Leonelli M, Riccomagno E, Varando G (2024).  Learning staged trees from incomplete data. International Conference on Probabilistic Graphical Models (PMLR) 246, 231-252. [Published version (open access)](https://proceedings.mlr.press/v246/carter24a.html).
 
 - **Carter JS** (2024).  A note on incorrect inferences in non-binary qualitative probabilistic networks. Artificial Intelligence, 335, 104180. [Published version](https://www.sciencedirect.com/science/article/pii/S0004370224001164). [Open access preprint](https://arxiv.org/abs/2208.09344).
-
-### Preprints
 
 ### Thesis
 
