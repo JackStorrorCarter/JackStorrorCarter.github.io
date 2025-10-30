@@ -24,6 +24,8 @@ Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) py
 
 ### Preprints
 
+- **Carter JS** and Molinari C. Existence and optimisation of the partial correlation graphical lasso. [Open access preprint](https://arxiv.org/abs/2510.25712)
+
 - **Carter JS**. Existence of the solution to the graphical lasso. [Open access preprint](https://arxiv.org/abs/2505.20005v1)
 
 ### Published papers
