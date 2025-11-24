@@ -30,7 +30,7 @@ Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) py
 
 ### Published papers
 
-- **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2025).  Staged trees for discrete longitudinal data. Metrika, 88, 1127–1160. [Published version](https://link.springer.com/article/10.1007/s00184-024-00987-9). [Open access preprint](https://arxiv.org/abs/2401.04297).
+- **Carter JS**, Leonelli M, Riccomagno E, Ugolini A (2025).  Staged trees for discrete longitudinal data. Metrika. [Published version](https://link.springer.com/article/10.1007/s00184-024-00987-9). [Open access preprint](https://arxiv.org/abs/2401.04297).
 
 - **Carter JS**, Rossell D, Smith JQ (2024).  Partial correlation graphical LASSO.  Scandinavian Journal of Statistics, 51(1), 32–63. [Published version (open access)](https://onlinelibrary.wiley.com/doi/10.1111/sjos.12675).
 
