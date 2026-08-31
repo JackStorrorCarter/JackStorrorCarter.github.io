@@ -24,9 +24,11 @@ Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) py
 
 ### Preprints
 
+- **Carter JS**. Parameterising Gaussian Graphical Models. To appear in Proceedings of The 13th International Conference on Probabilistic Graphical Models (PMLR).
+
 - **Carter JS** and Molinari C. Existence and optimisation of the partial correlation graphical lasso. [Open access preprint](https://arxiv.org/abs/2510.25712)
 
-- **Carter JS**. Existence of the solution to the graphical lasso. [Open access preprint](https://arxiv.org/abs/2505.20005v1)
+- **Carter JS**. Existence of penalised likelihood estimates and posterior propriety of separable prior distributions for Gaussian precision matrices. [Open access preprint](https://arxiv.org/abs/2505.20005v2)
 
 ### Published papers
 
