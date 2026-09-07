@@ -24,7 +24,7 @@ Also check out the [cegpy](https://cegpy.readthedocs.io/en/latest/intro.html) py
 
 ### Preprints
 
-- **Carter JS**. Parameterising Gaussian Graphical Models. To appear in Proceedings of The 13th International Conference on Probabilistic Graphical Models (PMLR).
+- **Carter JS**. Parameterising Gaussian Graphical Models. To appear in Proceedings of The 13th International Conference on Probabilistic Graphical Models (PMLR). [Open access preprint](https://arxiv.org/abs/2609.00288)
 
 - **Carter JS** and Molinari C. Existence and optimisation of the partial correlation graphical lasso. [Open access preprint](https://arxiv.org/abs/2510.25712)
 
